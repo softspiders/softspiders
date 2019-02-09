@@ -1,2 +1,2 @@
 # softspiders
-Main repository containing main documents
+Central repository for main documents
