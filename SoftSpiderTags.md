@@ -1,0 +1,99 @@
+## Словарь тегов *SoftSpiders*
+
+При возникновении вопросов по используемой нотации для элементов словаря смотрите раздел
+[Словарь используемых тегов](README.md#словарь-используемых-тегов)
+
+- api
+- apollo -> graphql
+- app -> runnable
+- runnable: самостоятельно запускаемая единица (приложение, сайт, сервис)
+- auth -> security
+- backend -> server
+- browser
+- cd -> ci
+- ci -> test
+- ca, clean-architecture 
+- client
+- cra, create-react-app -> react
+- crud
+- css
+- db, database -> backend
+- e2e -> test
+- expo -> rn: framework для React Native, ориентированный на разработку на чистом JS - без нативной составляющей
+- express -> backend, nodejs
+- framework
+- frontend
+- gatsby -> jamstack, react, graphql, site
+- google
+- gradle
+- grid
+- graphql
+- hapi -> api, backend, node: небольшой фреймворк, использующийся для разработки web-приложений на NodeJS 
+- headless
+- heroku -> hosting
+- hosting
+- http
+- jamstack -> cms, headless, site
+- java
+- js, javascript
+- jepria -> java, framework
+- jersey -> java, rest
+- jest -> test, js
+- jfront -> frontend
+- junit -> test
+- lerna -> monorepo
+- lib
+- log
+- log4j -> java, test, log
+- materialui->css, responsive
+- maven
+- micro -> backend, zeit, lib, web
+- mobile
+- module
+- mongodb -> nosql
+- mongoose -> mongodb
+- monorepo
+- next, nextjs -> framework, react, ssr, node 
+- node, nodejs -> js
+- nosql -> db
+- now -> hosting, zeit
+- oauth -> auth
+- passport -> auth
+- product
+- puppeteer -> headless, browser
+- reach-router -> react, router, lib
+- react -> framework, lib
+- ref-app: эталонное приложение
+- ref-site: эталонный сайт
+- rn, react-native -> react, javascript, mobile
+- render, rendering
+- responsive: адаптивная вёрска
+- rest -> http, api
+- router: функциональная единица (модуль, библиотека), отвечающая за навигацию
+- security
+- seo
+- server
+- service -> runnable
+- serverless -> frontend
+- screenshot
+- site -> runnable, seo, web
+- snapshot
+- static-site -> site
+- ssr -> render, seo, server
+- storybook -> ui, test
+- storyshot -> snapshot, testing
+- tdd -> test
+- template
+- test, testing: наличие автотестов
+- todo
+- travis -> ci
+- ts, typescript
+- ui
+- unit-test -> test
+- under-construction: проект не закончен, находится в работе (как правило, в таких случаях соответствующий
+GitHub-репозиторий должен быть приватным)
+- war
+- web -> http
+- yarn -> node
+- yarn-workspaces -> monorepo, yarn
+- zeit
