@@ -13,10 +13,9 @@
 - cd -> ci
 - ci -> test
 - ca, clean-architecture 
-- client
 - cra, create-react-app -> react
 - crud
-- css -> client
+- css -> frontend
 - db, database -> backend
 - e2e -> test
 - expo -> rn: framework для React Native, ориентированный на разработку на чистом JS - без нативной составляющей
@@ -62,12 +61,12 @@
 - product
 - puppeteer -> headless, browser
 - reach-router -> react, router, lib
-- react -> client, framework, lib
+- react -> frontend, framework, lib
 - ref-app: эталонное приложение
 - ref-site: эталонный сайт
 - rn, react-native -> react, javascript, mobile
 - render, rendering
-- responsive -> client: отзывчивый дизайн
+- responsive -> frontend: отзывчивый дизайн
 - rest -> http, api
 - router: функциональная единица (модуль, библиотека), отвечающая за навигацию
 - security
