@@ -13,6 +13,7 @@
 - cd -> ci
 - ci -> test
 - ca, clean-architecture 
+- client
 - cra, create-react-app -> react
 - crud
 - css -> frontend
