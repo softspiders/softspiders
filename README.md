@@ -71,7 +71,9 @@
 и силы на изучение множества разных не слишком интересных материалов и мелких деталей, к тому же когда знание большей
 части из них в итоге может оказаться ненужным.
 
-![rocket-explosion](images/rocket-explosion.jpg)
+![rocket-explosion](images/rocket-explosion.png)
+
+![rocket-explosion](images/rocket-explosion.png)
 
 ![rocket-explosion](images/rocket-explosion-1.jpg)
 
