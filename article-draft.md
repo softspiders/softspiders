@@ -254,8 +254,6 @@ TBD
 
 ![](images/express.jpg)
 
-![](images/express-1.jpg)
-
 ![](images/buran-energy.jpg)
 
 TBD
