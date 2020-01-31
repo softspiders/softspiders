@@ -6,7 +6,6 @@
 - api
 - apollo -> graphql
 - app -> runnable
-- runnable: самостоятельно запускаемая единица (приложение, сайт, сервис)
 - auth -> security
 - backend -> server
 - browser -> frontend, web
@@ -70,6 +69,7 @@
 - responsive -> frontend: отзывчивый дизайн
 - rest -> http, api
 - router: функциональная единица (модуль, библиотека), отвечающая за навигацию
+- runnable: самостоятельно запускаемая единица (приложение, сайт, сервис)
 - security
 - seo
 - server
