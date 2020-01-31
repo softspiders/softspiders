@@ -32,7 +32,7 @@
 - heroku -> hosting
 - hosting
 - http
-- isomorphic: код, который может выполняться и на клиенте, и на сервере
+- isomorphic -> browser, server: код, который может выполняться и на клиенте, и на сервере
 - jamstack -> cms, headless, site
 - java
 - js, javascript
