@@ -32,6 +32,7 @@
 - heroku -> hosting
 - hosting
 - http
+- isomorphic: код, который может выполняться и на клиенте, и на сервере
 - jamstack -> cms, headless, site
 - java
 - js, javascript
@@ -54,6 +55,7 @@
 - monorepo
 - next, nextjs -> framework, react, ssr, node 
 - node, nodejs -> js
+- node-fetch -> fetch, isomorphic, node
 - nosql -> db
 - now -> hosting, zeit
 - oauth -> auth
@@ -91,8 +93,7 @@
 - ts, typescript
 - ui
 - unit-test -> test
-- under-construction: проект не закончен, находится в работе (как правило, в таких случаях соответствующий
-GitHub-репозиторий должен быть приватным)
+- under-development: проект не закончен, находится в работе
 - war
 - web -> http
 - yarn -> node
