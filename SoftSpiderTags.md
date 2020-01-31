@@ -9,7 +9,7 @@
 - runnable: самостоятельно запускаемая единица (приложение, сайт, сервис)
 - auth -> security
 - backend -> server
-- browser
+- browser -> frontend, web
 - cd -> ci
 - ci -> test
 - ca, clean-architecture 
@@ -78,6 +78,7 @@
 - screenshot
 - site -> runnable, seo, web
 - snapshot
+- spa -> browser, js
 - static-site -> site
 - ssr -> render, seo, server
 - storybook -> ui, test
