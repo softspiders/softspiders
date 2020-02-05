@@ -53,6 +53,7 @@
 - mongodb -> nosql
 - mongoose -> mongodb
 - monorepo
+- navigation
 - next, nextjs -> framework, react, ssr, node 
 - node, nodejs -> js
 - node-fetch -> fetch, isomorphic, node
@@ -62,7 +63,7 @@
 - passport -> auth
 - product
 - puppeteer -> headless, browser
-- reach-router -> react, router, lib
+- reach-router -> navigation, react, router, lib
 - react -> frontend, framework, lib
 - ref-app: эталонное приложение
 - ref-site: эталонный сайт
