@@ -6,8 +6,9 @@
 - api
 - apollo -> graphql
 - app -> runnable
-- auth -> security
+- auth, authentication -> security
 - backend -> server
+- basic-auth -> auth
 - browser -> frontend, web
 - cd -> ci
 - ci -> test
@@ -32,6 +33,7 @@
 - heroku -> hosting
 - hosting
 - http
+- ie11
 - isomorphic -> browser, server: код, который может выполняться и на клиенте, и на сервере
 - jamstack -> cms, headless, site
 - java
