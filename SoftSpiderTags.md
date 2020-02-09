@@ -9,7 +9,8 @@
 - runnable: самостоятельно запускаемая единица (приложение, сайт, сервис)
 - auth -> security
 - backend -> server
-- browser
+- bootstrap -> css
+- browser -> web
 - cd -> ci
 - ci -> test
 - ca, clean-architecture 
@@ -33,6 +34,8 @@
 - heroku -> hosting
 - hosting
 - http
+- ie11 -> internet-explorer
+- internet-explorer -> browser
 - jamstack -> cms, headless, site
 - java
 - js, javascript
@@ -63,6 +66,7 @@
 - puppeteer -> headless, browser
 - reach-router -> react, router, lib
 - react -> frontend, framework, lib
+- react-bootstrap -> react, bootstrap, lib
 - ref-app: эталонное приложение
 - ref-site: эталонный сайт
 - rn, react-native -> react, javascript, mobile
