@@ -35,6 +35,7 @@
 - hosting
 - http
 - ie11 -> internet-explorer
+- integration-test -> test
 - internet-explorer -> browser
 - jamstack -> cms, headless, site
 - java
