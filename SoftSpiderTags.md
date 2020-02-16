@@ -14,7 +14,9 @@
 - cd -> ci
 - ci -> test
 - ca, clean-architecture 
+- cli: command-line interface
 - client
+- commander -> cli, lib, node: [NodeJS CLI made easy](https://github.com/tj/commander.js)
 - cra, create-react-app -> react
 - crud
 - css -> frontend
