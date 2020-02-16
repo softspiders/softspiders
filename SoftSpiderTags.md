@@ -55,6 +55,7 @@
 - maven
 - micro -> backend, zeit, lib, web
 - mobile
+- mock -> test
 - module
 - mongodb -> nosql
 - mongoose -> mongodb
