@@ -60,11 +60,13 @@
 - mongodb -> nosql
 - mongoose -> mongodb
 - monorepo
+- multi-command -> oclif
 - next, nextjs -> framework, react, ssr, node 
 - node, nodejs -> js
 - nosql -> db
 - now -> hosting, zeit
 - oauth -> auth
+- oclif
 - passport -> auth
 - product
 - puppeteer -> headless, browser

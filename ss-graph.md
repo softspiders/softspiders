@@ -1045,8 +1045,8 @@ UNDER DEVELOPMENT
 [Minimalistic JavaScript starter](https://github.com/softspiders/javascript)
 
 ## Direct descendants
-[node-cli-commander-ts-jest-starter](https://github.com/softspiders/node-cli-commander-ts-jest-starter)
-
+- [node-cli-commander-ts-jest-starter](https://github.com/softspiders/node-cli-commander-ts-jest-starter)
+- [oclif-multi-ts-starter](https://github.com/softspiders/oclif-multi-ts-starter)
 
 ---
 # [node-cli-commander-ts-jest-starter](https://github.com/softspiders/node-cli-commander-ts-jest-starter)
@@ -1231,12 +1231,44 @@ UNDER DEVELOPMENT
 - [Zeit Now "HelloWorld" example](https://github.com/softspiders/now)
 
 ---
+# [oclif-multi-ts-starter](https://github.com/softspiders/oclif-multi-ts-starter)
+
+## Feature tags
+
+- cli
+- multi-command
+- oclif
+- starter
+- template
+- typescript
+
+## Direct ancestors
+
+[node-cli-starter](https://github.com/softspiders/node-cli-starter)
+
+---
+# [cra-react-bootstrap-responsive-starter](https://github.com/softspiders/cra-react-bootstrap-responsive-starter)
+
+## Feature tags
+
+- cra
+- react-bootstrap
+- responsive
+- starter
+- template
+
+## Direct ancestors
+
+[cra-ie11-starter](https://github.com/softspiders/cra-ie11-starter)
+
+---
 
 --------------------------------------------------------
 - https://github.com/softspiders/basic-auth-client-jest-starter
 - https://github.com/softspiders/basic-auth-rest-client-jest-starter
 - https://github.com/softspiders/cra-ie11-starter
 - https://github.com/softspiders/cra-maven-war-starter
+- https://github.com/softspiders/cra-react-bootstrap-responsive-starter
 - https://github.com/softspiders/cra-starter
 - https://github.com/softspiders/cra-ts-maven-war-starter
 - https://github.com/softspiders/cra-ts-storybook-snapshot-testing
@@ -1279,6 +1311,7 @@ UNDER DEVELOPMENT
 - https://github.com/softspiders/node-testing-in-travis
 - https://github.com/softspiders/node-travis-heroku-cd
 - https://github.com/softspiders/now
+- https://github.com/softspiders/oclif-multi-ts-starter
 - https://github.com/softspiders/puppeteer
 - https://github.com/softspiders/puppeteer-jest
 - https://github.com/softspiders/puppeteer-jest-travis-heroku
