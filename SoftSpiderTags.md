@@ -27,6 +27,7 @@
 - framework
 - frontend
 - gatsby -> jamstack, react, graphql, site
+- generator
 - google
 - gradle
 - grid
@@ -66,7 +67,7 @@
 - nosql -> db
 - now -> hosting, zeit
 - oauth -> auth
-- oclif
+- oclif -> cli, generator
 - passport -> auth
 - product
 - puppeteer -> headless, browser
