@@ -24,6 +24,7 @@
 - e2e -> test
 - expo -> rn: framework для React Native, ориентированный на разработку на чистом JS - без нативной составляющей
 - express -> backend, nodejs
+- file-system
 - framework
 - frontend
 - gatsby -> jamstack, react, graphql, site
@@ -57,6 +58,7 @@
 - micro -> backend, zeit, lib, web
 - mobile
 - mock -> test
+- mock-fs -> file-system, mock, node
 - module
 - mongodb -> nosql
 - mongoose -> mongodb
@@ -73,7 +75,7 @@
 - puppeteer -> headless, browser
 - reach-router -> react, router, lib
 - react -> frontend, framework, lib
-- react-bootstrap -> react, bootstrap, lib
+- react-bootstrap -> bootstrap, lib, react, responsive
 - ref-app: эталонное приложение
 - ref-site: эталонный сайт
 - rn, react-native -> react, javascript, mobile

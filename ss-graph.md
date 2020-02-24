@@ -1262,6 +1262,47 @@ UNDER DEVELOPMENT
 [cra-ie11-starter](https://github.com/softspiders/cra-ie11-starter)
 
 ---
+# [cra-react-router-react-bootstrap-starter](https://github.com/softspiders/cra-react-router-react-bootstrap-starter)
+
+## Feature tags
+
+- cra
+- react-bootstrap
+- react-router
+- responsive
+- starter
+- template
+
+## Direct ancestors
+
+- [react-router-starter](https://github.com/softspiders/react-router-starter)
+- [cra-react-bootstrap-responsive-starter](https://github.com/softspiders/cra-react-bootstrap-responsive-starter)
+
+---
+# [oclif-multi-ts-starter](https://github.com/softspiders/oclif-multi-ts-starter)
+
+## Feature tags
+
+- cli
+- multi-command
+- oclif
+- starter
+- template
+- typescript
+
+---
+# [jest-mock-fs-starter](https://github.com/softspiders/jest-mock-fs-starter)
+
+
+## Feature tags
+
+- file-system
+- jest
+- mock-fs
+- starter
+- template
+
+---
 
 --------------------------------------------------------
 - https://github.com/softspiders/basic-auth-client-jest-starter
@@ -1269,6 +1310,7 @@ UNDER DEVELOPMENT
 - https://github.com/softspiders/cra-ie11-starter
 - https://github.com/softspiders/cra-maven-war-starter
 - https://github.com/softspiders/cra-react-bootstrap-responsive-starter
+- https://github.com/softspiders/cra-react-router-react-bootstrap-starter
 - https://github.com/softspiders/cra-starter
 - https://github.com/softspiders/cra-ts-maven-war-starter
 - https://github.com/softspiders/cra-ts-storybook-snapshot-testing
@@ -1286,6 +1328,7 @@ UNDER DEVELOPMENT
 - https://github.com/softspiders/graph-ca
 - https://github.com/softspiders/javascript
 - https://github.com/softspiders/jest
+- https://github.com/softspiders/jest-mock-fs-starter
 - https://github.com/softspiders/lerna
 - https://github.com/softspiders/lerna-next-react-lib
 - https://github.com/softspiders/lerna-next-ts-rest-lib-starter
