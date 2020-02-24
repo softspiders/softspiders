@@ -913,12 +913,14 @@ UNDER DEVELOPMENT
 
 ## Direct descendants
 
+- [jest-mock-fs-starter](https://github.com/softspiders/jest-mock-fs-starter)
+- [node-testing-in-travis](https://github.com/softspiders/node-testing-in-travis)
+- [puppeteer-jest](https://github.com/softspiders/puppeteer-jest)
 - [typescript-test](https://github.com/softspiders/typescript-test)
-- [node-testing-in-travis](https://github.com/softspiders/node-testing-in-travis) - also by code
-
 
 ## Direct code descendants
 
+- [jest-mock-fs-starter](https://github.com/softspiders/jest-mock-fs-starter)
 - [node-testing-in-travis](https://github.com/softspiders/node-testing-in-travis)
 - [puppeteer-jest](https://github.com/softspiders/puppeteer-jest)
 
