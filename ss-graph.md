@@ -216,7 +216,7 @@ https://github.com/softspiders/cra-typescript-test
 
 ## Direct ancestors - also by code
 
-[jest](https://github.com/softspiders/jest)
+[jest-starter](https://github.com/softspiders/jest-starter)
 
 ## Direct descendants
 
@@ -251,7 +251,7 @@ https://github.com/softspiders/cra-typescript-test
 
 * [puppeteer](https://github.com/softspiders/puppeteer)
 * [express](https://github.com/softspiders/express) - also by code
-* [jest](https://github.com/softspiders/jest)
+* [jest-starter](https://github.com/softspiders/jest-starter)
 
 
 ## Direct descendants
@@ -401,7 +401,7 @@ https://github.com/softspiders/cra-typescript-test
 ## Direct ancestors
 
 * [helloworld-in-typescript](https://github.com/softspiders/typescript)
-* [jest](https://github.com/softspiders/jest)
+* [jest-starter](https://github.com/softspiders/jest-starter)
 
 ## Direct descendants
 
@@ -894,12 +894,12 @@ UNDER DEVELOPMENT
 ## Direct descendants - also by code
 
 - [node-cli-starter](https://github.com/softspiders/node-cli-starter)
-- [jest](https://github.com/softspiders/jest)
+- [jest-starter](https://github.com/softspiders/jest-starter)
 - [helloworld-in-typescript](https://github.com/softspiders/helloworld-in-typescript)
 
 ---
 
-# [jest](https://github.com/softspiders/jest)
+# [jest-starter](https://github.com/softspiders/jest-starter)
 
 ## Feature tags
 - jest
