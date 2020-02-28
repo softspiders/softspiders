@@ -95,7 +95,7 @@
 - static-site -> site
 - ssr -> render, seo, server
 - storybook -> ui, test
-- storyshot -> snapshot, testing
+- storyshot -> snapshot, storybook, testing
 - tdd -> test
 - template
 - test, testing: наличие автотестов
