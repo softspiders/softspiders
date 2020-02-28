@@ -7,8 +7,8 @@ STILL UNDER DEVELOPMENT
 A *tag* is a category (semantic dimension in a manner) that denotes some *resource* (some code feature in our case).
 
 ### Resource
-*Resource* in *Soft Spider* space are usually http-reference to project repository that
-contain some prototypical code. Such *resources* are marked with *tag sets*.
+*Resource* in *Soft Spider* space are usually http-reference to project repository that contain some prototypical code.
+Such *resources* are marked with *tag sets*.
 
 ### Tag set
 *Tag sets* as usual are used to mark *resources*, as well as in *queries*.  

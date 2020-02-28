@@ -41,6 +41,7 @@
 - ie11 -> internet-explorer
 - integration-test -> test
 - internet-explorer -> browser
+- ioc
 - jamstack -> cms, headless, site
 - java
 - js, javascript
