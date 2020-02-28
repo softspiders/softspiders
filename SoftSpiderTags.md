@@ -39,6 +39,7 @@
 - hosting
 - http
 - ie11 -> internet-explorer
+- ioc
 - integration-test -> test
 - internet-explorer -> browser
 - ioc
