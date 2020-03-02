@@ -122,7 +122,7 @@
 - ts, typescript
 - ui
 - unit-test -> test
-- under-development: проект не закончен, находится в работе
+- under-dev, under-development: проект не закончен, находится в работе
 - war
 - web -> http
 - yarn -> node
