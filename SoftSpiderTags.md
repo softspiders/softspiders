@@ -12,11 +12,12 @@
 - browser -> frontend, web
 - cd -> ci
 - ci -> test
-- ca, clean-architecture 
+- clean-architecture, ca 
 - client
 - context-api -> api, props, react
 - context-api-state -> context-api, state-management: управление состоянием при помощи context-api
 - cra, create-react-app -> react
+- component
 - crud
 - css -> frontend
 - db, database -> backend
@@ -95,7 +96,7 @@
 - ssr -> render, seo, server
 - storybook -> ui, test
 - storyshot -> snapshot, testing
-- styled-components, sc -> css, style 
+- styled-components, sc -> css, component, style 
 - tdd -> test
 - template
 - test, testing: наличие автотестов
