@@ -1389,12 +1389,21 @@ UNDER DEVELOPMENT
 [+*formik*, *styled-components*: cra-formik-styled-components-ts-starter](https://github.com/softspiders/cra-formik-styled-components-ts-starter)
 
 ---
+[cra-lib-npm-link-doc](https://github.com/softspiders/cra-lib-npm-link-doc)
 
+## Feature tags
+
+- create-react-app
+- document
+- library
+- npm-link
+---
 --------------------------------------------------------
 - https://github.com/softspiders/basic-auth-client-jest-starter
 - https://github.com/softspiders/basic-auth-rest-client-jest-starter
 - https://github.com/softspiders/cra-formik-styled-components-ts-starter
 - https://github.com/softspiders/cra-ie11-starter
+- https://github.com/softspiders/cra-lib-npm-link-doc
 - https://github.com/softspiders/cra-maven-war-starter
 - https://github.com/softspiders/cra-react-bootstrap-responsive-starter
 - https://github.com/softspiders/cra-react-router-ie11-starter
