@@ -21,6 +21,8 @@
 - e2e -> test
 - expo -> rn: framework для React Native, ориентированный на разработку на чистом JS - без нативной составляющей
 - express -> backend, nodejs
+- form
+- formik -> form, react, lib
 - framework
 - frontend
 - gatsby -> jamstack, react, graphql, site
@@ -71,7 +73,7 @@
 - ref-site: эталонный сайт
 - rn, react-native -> react, javascript, mobile
 - render, rendering
-- responsive -> frontend: отзывчивый дизайн
+- responsive -> css, frontend: отзывчивый дизайн
 - rest -> http, api
 - router: функциональная единица (модуль, библиотека), отвечающая за навигацию
 - runnable: самостоятельно запускаемая единица (приложение, сайт, сервис)
@@ -88,6 +90,7 @@
 - ssr -> render, seo, server
 - storybook -> ui, test
 - storyshot -> snapshot, testing
+- styled-components, sc -> css, style 
 - tdd -> test
 - template
 - test, testing: наличие автотестов
