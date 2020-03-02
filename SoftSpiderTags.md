@@ -14,6 +14,8 @@
 - ci -> test
 - ca, clean-architecture 
 - client
+- context-api -> api, props, react
+- context-api-state -> context-api, state-management: управление состоянием при помощи context-api
 - cra, create-react-app -> react
 - crud
 - css -> frontend
@@ -66,6 +68,7 @@
 - oauth -> auth
 - passport -> auth
 - product
+- props
 - puppeteer -> headless, browser
 - reach-router -> navigation, react, router, lib
 - react -> frontend, framework, lib
@@ -86,6 +89,8 @@
 - site -> runnable, seo, web
 - snapshot
 - spa -> browser, js
+- state
+- state-management, sm -> state
 - static-site -> site
 - ssr -> render, seo, server
 - storybook -> ui, test
