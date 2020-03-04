@@ -1295,7 +1295,6 @@ UNDER DEVELOPMENT
 ---
 # [jest-mock-fs-starter](https://github.com/softspiders/jest-mock-fs-starter)
 
-
 ## Feature tags
 
 - file-system
@@ -1445,14 +1444,110 @@ UNDER DEVELOPMENT
 
 ---
 ---
+# [cra-react-router-ie11-starter](https://github.com/softspiders/cra-react-router-ie11-starter)
 
+## Feature tags
+- cra
+- ie11
+- react-router
+- starter
+- template
+
+## Direct ancestors
+
+- [*react-router-starter*](https://github.com/softspiders/react-router-starter)
+- [*cra-ie11-starter*](https://github.com/softspiders/cra-ie11-starter)
+
+## Direct descendants
+
+- [*cra-react-router-react-bootstrap-starter*](https://github.com/softspiders/cra-react-router-react-bootstrap-starter)
+---
+# [react-lib-storybook-lerna-starter](https://github.com/softspiders/react-lib-storybook-lerna-starter)
+
+## Feature tags
+
+- app
+- build
+- lerna
+- react
+- starter
+- storybook
+- uilib
+
+---
+
+## Direct ancestors
+
+[storybook: lerna-react-app-uilib-starter](https://github.com/softspiders/lerna-react-app-uilib-starter)
+
+---
+# [ts-ioc-starter](https://github.com/softspiders/ts-ioc-starter)
+## Feature tags
+
+- ioc
+- starter
+- template
+- typescript
+
+---
+
+## Direct ancestors
+
+[-*ioc*: typescript](https://github.com/softspiders/typescript)
+
+---
+[cra-formik-styled-components-ts-starter](https://github.com/softspiders/cra-formik-styled-components-ts-starter)
+
+## Feature tags
+
+- cra
+- formik
+- ie11
+- starter
+- styled-components
+- template
+- typescript
+
+---
+[cra-ts-ie11-starter](https://github.com/softspiders/cra-ts-ie11-starter)
+## Feature tags
+
+- create-react-app
+- ie11
+- starter
+- template
+- typescript
+
+---
+
+## Direct ancestors
+
+[-*typescript*: cra-ie11-starter](https://github.com/softspiders/cra-ie11-starter)
+
+## Direct descendants
+
+[+*formik*, *styled-components*: cra-formik-styled-components-ts-starter](https://github.com/softspiders/cra-formik-styled-components-ts-starter)
+
+---
+[cra-lib-npm-link-doc](https://github.com/softspiders/cra-lib-npm-link-doc)
+
+## Feature tags
+
+- create-react-app
+- document
+- library
+- npm-link
+---
 --------------------------------------------------------
 - https://github.com/softspiders/basic-auth-client-jest-starter
 - https://github.com/softspiders/basic-auth-rest-client-jest-starter
+- https://github.com/softspiders/cra-formik-styled-components-ts-starter
 - https://github.com/softspiders/contextapi-ts-starter
 - https://github.com/softspiders/cra-ie11-starter
+- https://github.com/softspiders/cra-lib-npm-link-doc
 - https://github.com/softspiders/cra-maven-war-starter
 - https://github.com/softspiders/cra-react-bootstrap-responsive-starter
+- https://github.com/softspiders/cra-react-router-ie11-starter
 - https://github.com/softspiders/cra-react-router-react-bootstrap-starter
 - https://github.com/softspiders/cra-starter
 - https://github.com/softspiders/cra-ts-ie11-starter
@@ -1509,7 +1604,6 @@ UNDER DEVELOPMENT
 - https://github.com/softspiders/puppeteer-screenshot
 - https://github.com/softspiders/react-bootstrap-responsive-starter
 - https://github.com/softspiders/react-bootstrap-storybook-starter
-- https://github.com/softspiders/react-lib-storybook-lerna-starter
 - https://github.com/softspiders/react-materialui-responsive-starter
 - https://github.com/softspiders/react-native-web-ts
 - https://github.com/softspiders/react-router-starter
