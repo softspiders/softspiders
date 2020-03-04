@@ -94,6 +94,8 @@
 - screenshot
 - site -> runnable, seo, web
 - snapshot
+- state
+- state management, sm -> state
 - static-site -> site
 - ssr -> render, seo, server
 - storybook -> ui, test
