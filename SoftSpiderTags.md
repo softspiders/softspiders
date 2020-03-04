@@ -17,6 +17,7 @@
 - cli: command-line interface
 - client
 - commander -> cli, lib, node: [NodeJS CLI made easy](https://github.com/tj/commander.js)
+- context-api -> api, props, react, style
 - cra, create-react-app -> react
 - crud
 - css -> frontend
@@ -73,6 +74,7 @@
 - oclif -> cli, generator
 - passport -> auth
 - product
+- props -> react
 - puppeteer -> headless, browser
 - reach-router -> react, router, lib
 - react -> frontend, framework, lib
@@ -96,6 +98,7 @@
 - ssr -> render, seo, server
 - storybook -> ui, test
 - storyshot -> snapshot, storybook, testing
+- style
 - tdd -> test
 - template
 - test, testing: наличие автотестов
