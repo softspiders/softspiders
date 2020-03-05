@@ -302,53 +302,62 @@ https://github.com/softspiders/cra-typescript-test
 - template  
 
 ---
-
 # [cra-ts-uilib-storybook-lerna](https://github.com/softspiders/cra-ts-uilib-storybook-lerna)
 
 ## Feature tags
-
 - create-react-app
 - lerna
-- lib
 - react
 - starter
 - storybook
 - template
 - typescript
-- ui
+- uilib
 
 ---
 
 ## Direct ancestors
-
 - [typescript](https://github.com/softspiders/typescript)
 - [lerna](https://github.com/softspiders/lerna)
 
 
 ## Direct descendants
-
 [cra-ts-uilib-storybook-lerna-mvn-war](https://github.com/softspiders/cra-ts-uilib-storybook-lerna-mvn-war) - also by code
 
 ---
-
-# [express](https://github.com/softspiders/express)
+# [cra-ts-uilib-storybook-lerna-ie11](https://github.com/softspiders/cra-ts-uilib-storybook-lerna-ie11)
 
 ## Feature tags
-
-- express
+- create-react-app
+- ie11
+- lerna
+- react
+- starter
+- storybook
+- template
+- typescript
+- uilib
 
 ---
 
+## Direct ancestors
+- [***-ie11***: cra-ts-uilib-storybook-lerna](https://github.com/softspiders/cra-ts-uilib-storybook-lerna)
+
+---
+# [express](https://github.com/softspiders/express)
+
+## Feature tags
+- express
+
+---
 [Node.js](https://nodejs.org/en/download/package-manager/)
 
 ## Direct descendants
-
 * [express-mongodb](https://github.com/softspiders/express-mongodb)
 * [mongoose-express](https://github.com/softspiders/mongoose-express)
 * [puppeteer-jest](https://github.com/softspiders/puppeteer-jest) - also by code
 
 ---
-
 # [express](https://github.com/softspiders/express)
 
 ## Feature tags
@@ -1538,6 +1547,8 @@ UNDER DEVELOPMENT
 - library
 - npm-link
 ---
+---
+
 --------------------------------------------------------
 - https://github.com/softspiders/basic-auth-client-jest-starter
 - https://github.com/softspiders/basic-auth-rest-client-jest-starter
@@ -1554,6 +1565,7 @@ UNDER DEVELOPMENT
 - https://github.com/softspiders/cra-ts-maven-war-starter
 - https://github.com/softspiders/cra-ts-storybook-snapshot-testing
 - https://github.com/softspiders/cra-ts-uilib-storybook-lerna
+- https://github.com/softspiders/cra-ts-uilib-storybook-lerna-ie11
 - https://github.com/softspiders/cra-ts-uilib-storybook-lerna-mvn-war
 - https://github.com/softspiders/cra-ts-uilib-storybook-storyshots-lerna
 - https://github.com/softspiders/cra-typescript-test
