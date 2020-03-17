@@ -302,53 +302,62 @@ https://github.com/softspiders/cra-typescript-test
 - template  
 
 ---
-
 # [cra-ts-uilib-storybook-lerna](https://github.com/softspiders/cra-ts-uilib-storybook-lerna)
 
 ## Feature tags
-
 - create-react-app
 - lerna
-- lib
 - react
 - starter
 - storybook
 - template
 - typescript
-- ui
+- uilib
 
 ---
 
 ## Direct ancestors
-
 - [typescript](https://github.com/softspiders/typescript)
 - [lerna](https://github.com/softspiders/lerna)
 
 
 ## Direct descendants
-
 [cra-ts-uilib-storybook-lerna-mvn-war](https://github.com/softspiders/cra-ts-uilib-storybook-lerna-mvn-war) - also by code
 
 ---
-
-# [express](https://github.com/softspiders/express)
+# [cra-ts-uilib-storybook-lerna-ie11](https://github.com/softspiders/cra-ts-uilib-storybook-lerna-ie11)
 
 ## Feature tags
-
-- express
+- create-react-app
+- ie11
+- lerna
+- react
+- starter
+- storybook
+- template
+- typescript
+- uilib
 
 ---
 
+## Direct ancestors
+- [***-ie11***: cra-ts-uilib-storybook-lerna](https://github.com/softspiders/cra-ts-uilib-storybook-lerna)
+
+---
+# [express](https://github.com/softspiders/express)
+
+## Feature tags
+- express
+
+---
 [Node.js](https://nodejs.org/en/download/package-manager/)
 
 ## Direct descendants
-
 * [express-mongodb](https://github.com/softspiders/express-mongodb)
 * [mongoose-express](https://github.com/softspiders/mongoose-express)
 * [puppeteer-jest](https://github.com/softspiders/puppeteer-jest) - also by code
 
 ---
-
 # [express](https://github.com/softspiders/express)
 
 ## Feature tags
@@ -1304,6 +1313,146 @@ UNDER DEVELOPMENT
 - template
 
 ---
+# [cra-ts-ie11-starter](https://github.com/softspiders/cra-ts-ie11-starter)
+
+## Feature tags
+- create-react-app
+- ie11
+- starter
+- template
+- typescript
+
+---
+
+## Direct ancestors
+[-*typescript*: cra-ie11-starter](https://github.com/softspiders/cra-ie11-starter)
+
+## Direct descendants
+[+*formik*, *styled-components*: cra-formik-styled-components-ts-starter](https://github.com/softspiders/cra-formik-styled-components-ts-starter)
+
+---
+# [react-lib-storybook-lerna-starter](https://github.com/softspiders/react-lib-storybook-lerna-starter)
+
+## Feature tags
+- app
+- build
+- lerna
+- react
+- starter
+- storybook
+- uilib
+
+## Direct ancestors
+[-***storybook***: lerna-react-app-uilib-starter](https://github.com/softspiders/lerna-react-app-uilib-starter)
+
+---
+# [react-ts-storybook-storyshots](https://github.com/softspiders/react-ts-storybook-storyshots)
+
+## Feature tags
+- jest
+- react
+- snapshot
+- starter
+- storybook
+- storyshot
+- template
+- test
+- typescript
+- ui
+
+---
+
+## Direct ancestors
+
+- [typescript-test](https://github.com/softspiders/typescript-test)
+- [typescript](https://github.com/softspiders/typescript)
+
+## Direct descendants - also by code
+
+- [***+lerna***: lerna-react-ts-storybook-storyshot-starter](https://github.com/softspiders/lerna-react-ts-storybook-storyshot-starter)
+- [***+cra, lerna***: cra-ts-uilib-storybook-storyshots-lerna](https://github.com/softspiders/cra-ts-uilib-storybook-storyshots-lerna)
+
+---
+# [js-app-starter](https://github.com/softspiders/js-app-starter)
+
+## Feature tags
+- app
+- javascript
+- starter
+- template
+
+## Direct ancestors
+
+[-***app***: javascript](https://github.com/softspiders/javascript)
+
+---
+# [js-lib-starter](https://github.com/softspiders/js-lib-starter)
+
+## Feature tags
+- javascript
+- library
+- starter
+- template
+
+---
+# [js-npmlink-doc](https://github.com/softspiders/js-npmlink-doc)
+
+## Feature tags
+- app
+- document
+- javascript
+- library
+- npm-link
+---
+# [lerna-react-ts-storybook-storyshot-starter](https://github.com/softspiders/lerna-react-ts-storybook-storyshot-starter)
+
+## Feature tags
+
+- jest
+- lerna
+- react
+- starter
+- storybook
+- storyshot
+- template
+- typescript
+- uilib
+
+---
+
+## Direct ancestors
+- [typescript-test](https://github.com/softspiders/typescript-test)
+- [typescript](https://github.com/softspiders/typescript)
+
+## Direct descendants - also by code
+[***-lerna***: react-ts-storybook-storyshots](https://github.com/softspiders/react-ts-storybook-storyshots)
+
+## Feature tags
+
+- context-api
+- cra
+- ie11
+- starter
+- template
+- typescript
+---
+# [contextapi-ts-starter](https://github.com/softspiders/contextapi-ts-starter)
+
+## Feature tags
+
+- context-api
+- cra
+- ie11
+- starter
+- template
+- typescript
+
+---
+## Direct ancestors
+[***context-api***: cra-ts-ie11-starter](https://github.com/softspiders/cra-ts-ie11-starter)
+
+---
+---
 # [cra-react-router-ie11-starter](https://github.com/softspiders/cra-react-router-ie11-starter)
 
 ## Feature tags
@@ -1398,10 +1547,13 @@ UNDER DEVELOPMENT
 - library
 - npm-link
 ---
+---
+
 --------------------------------------------------------
 - https://github.com/softspiders/basic-auth-client-jest-starter
 - https://github.com/softspiders/basic-auth-rest-client-jest-starter
 - https://github.com/softspiders/cra-formik-styled-components-ts-starter
+- https://github.com/softspiders/contextapi-ts-starter
 - https://github.com/softspiders/cra-ie11-starter
 - https://github.com/softspiders/cra-lib-npm-link-doc
 - https://github.com/softspiders/cra-maven-war-starter
@@ -1413,6 +1565,7 @@ UNDER DEVELOPMENT
 - https://github.com/softspiders/cra-ts-maven-war-starter
 - https://github.com/softspiders/cra-ts-storybook-snapshot-testing
 - https://github.com/softspiders/cra-ts-uilib-storybook-lerna
+- https://github.com/softspiders/cra-ts-uilib-storybook-lerna-ie11
 - https://github.com/softspiders/cra-ts-uilib-storybook-lerna-mvn-war
 - https://github.com/softspiders/cra-ts-uilib-storybook-storyshots-lerna
 - https://github.com/softspiders/cra-typescript-test
@@ -1427,12 +1580,16 @@ UNDER DEVELOPMENT
 - https://github.com/softspiders/javascript
 - https://github.com/softspiders/jest
 - https://github.com/softspiders/jest-mock-fs-starter
+- https://github.com/softspiders/js-app-starter
+- https://github.com/softspiders/js-lib-starter
+- https://github.com/softspiders/js-npmlink-doc
 - https://github.com/softspiders/lerna
 - https://github.com/softspiders/lerna-next-react-lib
 - https://github.com/softspiders/lerna-next-ts-rest-lib-starter
 - https://github.com/softspiders/lerna-next-with-lib
 - https://github.com/softspiders/lerna-react-app-uilib-starter
 - https://github.com/softspiders/lerna-react-app-uilib-war-starter
+- https://github.com/softspiders/lerna-react-ts-storybook-storyshot-starter
 - https://github.com/softspiders/mongodb-crud-testing
 - https://github.com/softspiders/mongoose
 - https://github.com/softspiders/mongoose-express
@@ -1459,7 +1616,6 @@ UNDER DEVELOPMENT
 - https://github.com/softspiders/puppeteer-screenshot
 - https://github.com/softspiders/react-bootstrap-responsive-starter
 - https://github.com/softspiders/react-bootstrap-storybook-starter
-- https://github.com/softspiders/react-lib-storybook-lerna-starter
 - https://github.com/softspiders/react-materialui-responsive-starter
 - https://github.com/softspiders/react-native-web-ts
 - https://github.com/softspiders/react-router-starter
@@ -1467,7 +1623,6 @@ UNDER DEVELOPMENT
 - https://github.com/softspiders/rest-api-java-jersey
 - https://github.com/softspiders/rest-client-jest-starter
 - https://github.com/softspiders/storybook-materialui-responsive-starter
-- https://github.com/softspiders/ts-ioc-starter
 - https://github.com/softspiders/typescript
 - https://github.com/softspiders/typescript-test
 - https://github.com/softspiders/zeit-micro

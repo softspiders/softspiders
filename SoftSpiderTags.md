@@ -103,12 +103,14 @@
 - storybook -> ui, test
 - storyshot -> snapshot, storybook, testing
 - style
+- styled-components, sc
+- styled-components.theme-provider
 - tdd -> test
 - template
 - test, testing: наличие автотестов
 - todo
 - travis -> ci
-- ts, typescript
+- ts, typescript -> javascript
 - ui
 - unit-test -> test
 - under-dev: проект не закончен, находится в работе
