@@ -108,7 +108,7 @@
 - tdd -> test
 - template
 - test, testing: наличие автотестов
-- todo
+- todo, todo-app -> crud
 - travis -> ci
 - ts, typescript -> javascript
 - ui
