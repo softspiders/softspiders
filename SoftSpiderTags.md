@@ -93,7 +93,7 @@
 - react -> frontend, framework, lib
 - react-bootstrap -> bootstrap, lib, react, responsive
 - react-hooks
-- redux
+- redux -> state-management
 - ref-app: эталонное приложение
 - ref-site: эталонный сайт
 - rn, react-native -> react, javascript, mobile
