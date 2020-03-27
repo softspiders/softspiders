@@ -22,6 +22,7 @@
 - context-api-state -> context-api, state-management: управление состоянием при помощи context-api
 - cra, create-react-app -> react
 - component
+- counter-app
 - crud
 - css -> frontend
 - db, database -> backend
@@ -34,6 +35,7 @@
 - formik -> form, react, lib
 - framework
 - frontend
+- fullstack
 - gatsby -> jamstack, react, graphql, site
 - generator
 - google
@@ -90,6 +92,8 @@
 - reach-router -> navigation, react, router, lib
 - react -> frontend, framework, lib
 - react-bootstrap -> bootstrap, lib, react, responsive
+- react-hooks
+- redux
 - ref-app: эталонное приложение
 - ref-site: эталонный сайт
 - rn, react-native -> react, javascript, mobile
