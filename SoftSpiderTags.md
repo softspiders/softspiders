@@ -21,13 +21,14 @@
 - cra, create-react-app -> react
 - crud
 - css -> frontend
-- db, database -> backend
+- db, database -> backend, persistence
 - e2e -> test
 - expo -> rn: framework для React Native, ориентированный на разработку на чистом JS - без нативной составляющей
 - express -> backend, nodejs
 - file-system
 - framework
 - frontend
+- fullstack -> persistence
 - gatsby -> jamstack, react, graphql, site
 - generator
 - google
@@ -45,11 +46,12 @@
 - ioc
 - jamstack -> cms, headless, site
 - java
-- js, javascript
+- javascript, js
 - jepria -> java, framework
 - jersey -> java, rest
 - jest -> test, js
 - jfront -> frontend
+- json-server -> json, persistence, rest, db, server
 - junit -> test
 - lerna -> monorepo
 - lib
