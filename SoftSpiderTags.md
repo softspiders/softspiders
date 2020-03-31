@@ -18,8 +18,9 @@
 - client
 - commander -> cli, lib, node: [NodeJS CLI made easy](https://github.com/tj/commander.js)
 - context-api -> api, props, react, style
+- counter, counter-app -> starter
 - cra, create-react-app -> react
-- crud
+- crud, crud-app
 - css -> frontend
 - db, database -> backend, persistence
 - e2e -> test
@@ -96,6 +97,7 @@
 - screenshot
 - site -> runnable, seo, web
 - snapshot
+- starter
 - state
 - state management, sm -> state
 - static-site -> site
@@ -108,7 +110,7 @@
 - tdd -> test
 - template
 - test, testing: наличие автотестов
-- todo
+- todo, todo-app -> crud
 - travis -> ci
 - ts, typescript -> javascript
 - ui
