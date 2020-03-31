@@ -50,7 +50,8 @@
 - javascript, js
 - jepria -> java, framework
 - jersey -> java, rest
-- jest -> test, js
+- jest -> test, js, lib
+- jest-mock-extended -> jest, mock
 - jfront -> frontend
 - json-server -> json, persistence, rest, db, server
 - junit -> test
