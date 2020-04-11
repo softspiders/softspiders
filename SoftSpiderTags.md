@@ -29,7 +29,7 @@
 - file-system
 - framework
 - frontend
-- fullstack -> persistence
+- fullstack -> frontend, backend
 - gatsby -> jamstack, react, graphql, site
 - generator
 - google
@@ -51,6 +51,7 @@
 - jepria -> java, framework
 - jersey -> java, rest
 - jest -> test, js, lib
+- jest-fetch-mock -> jest, fetch, mock
 - jest-mock-extended -> jest, mock
 - jfront -> frontend
 - json-server -> json, persistence, rest, db, server
@@ -83,6 +84,8 @@
 - reach-router -> react, router, lib
 - react -> frontend, framework, lib
 - react-bootstrap -> bootstrap, lib, react, responsive
+- react-hooks, hooks -> react
+- react-testing-library -> jest, lib, react, test
 - ref-app: эталонное приложение
 - ref-site: эталонный сайт
 - rn, react-native -> react, javascript, mobile
@@ -111,6 +114,7 @@
 - tdd -> test
 - template
 - test, testing: наличие автотестов
+- test-coverage -> test
 - todo, todo-app -> crud
 - travis -> ci
 - ts, typescript -> javascript
