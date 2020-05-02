@@ -23,6 +23,8 @@
 - crud, crud-app
 - css -> frontend
 - db, database -> backend, persistence
+- design-pattern
+- dip, dependency-inversion -> design-pattern
 - e2e -> test
 - expo -> rn: framework для React Native, ориентированный на разработку на чистом JS - без нативной составляющей
 - express -> backend, nodejs
