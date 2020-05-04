@@ -24,7 +24,7 @@
 - css -> frontend
 - db, database -> backend, persistence
 - design-pattern
-- dip, dependency-inversion -> design-pattern
+- dip, dependency-inversion -> solid
 - e2e -> test
 - expo -> rn: framework для React Native, ориентированный на разработку на чистом JS - без нативной составляющей
 - express -> backend, nodejs
@@ -103,6 +103,7 @@
 - screenshot
 - site -> runnable, seo, web
 - snapshot
+- solid
 - starter
 - state
 - state management, sm -> state
