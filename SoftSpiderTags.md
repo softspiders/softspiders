@@ -80,6 +80,7 @@
 - oauth -> auth
 - oclif -> cli, generator
 - passport -> auth
+- presentation
 - product
 - props -> react
 - puppeteer -> headless, browser
@@ -104,6 +105,7 @@
 - site -> runnable, seo, web
 - snapshot
 - solid
+- ss-deck -> presentation
 - starter
 - state
 - state management, sm -> state
