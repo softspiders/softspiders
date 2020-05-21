@@ -14,7 +14,8 @@
 - browser -> web
 - cd -> ci
 - ci -> test
-- ca, clean-architecture 
+- ca, clean-architecture
+- code-surfer 
 - cli: command-line interface
 - client
 - commander -> cli, lib, node: [NodeJS CLI made easy](https://github.com/tj/commander.js)
@@ -65,6 +66,7 @@
 - log4j -> java, test, log
 - materialui->css, responsive
 - maven
+- mdx-deck
 - micro -> backend, zeit, lib, web
 - mobile
 - mock -> test
