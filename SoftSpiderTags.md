@@ -19,6 +19,7 @@
 - cli: command-line interface
 - client
 - commander -> cli, lib, node: [NodeJS CLI made easy](https://github.com/tj/commander.js)
+- composition
 - context-api -> api, props, react, style
 - counter, counter-app -> starter
 - cra, create-react-app -> react
@@ -108,6 +109,7 @@
 - site -> runnable, seo, web
 - snapshot
 - solid
+- srp -> solid
 - ss-deck -> presentation
 - starter
 - state
@@ -129,6 +131,7 @@
 - ui
 - unit-test -> test
 - under-dev: проект не закончен, находится в работе
+- use-presenter -> react-hooks
 - war
 - web -> http
 - yarn -> node
