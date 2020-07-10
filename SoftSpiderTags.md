@@ -92,6 +92,7 @@
 - react -> frontend, framework, lib
 - react-bootstrap -> bootstrap, lib, react, responsive
 - react-hooks, hooks -> react
+- react-native, rn -> mobile
 - react-testing-library -> jest, lib, react, test
 - ref-app: эталонное приложение
 - ref-site: эталонный сайт
