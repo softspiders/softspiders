@@ -89,14 +89,14 @@
 - props -> react
 - puppeteer -> headless, browser
 - reach-router -> react, router, lib
-- react -> frontend, framework, lib
+- react -> frontend, framework, lib, javascript
 - react-bootstrap -> bootstrap, lib, react, responsive
 - react-hooks, hooks -> react
 - react-native, rn -> mobile
 - react-testing-library -> jest, lib, react, test
 - ref-app: эталонное приложение
 - ref-site: эталонный сайт
-- rn, react-native -> react, javascript, mobile
+- rn, react-native -> react, mobile
 - render, rendering
 - responsive -> frontend: отзывчивый дизайн
 - rest -> http, api
