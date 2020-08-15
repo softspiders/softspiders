@@ -40,7 +40,7 @@
 - git
 - github -> git
 - github-actions -> ci, cd, github
-- github-flow -> github
+- git-flow -> git
 - google
 - gradle
 - grid
