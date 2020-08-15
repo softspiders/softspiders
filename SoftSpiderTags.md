@@ -37,7 +37,10 @@
 - fullstack -> frontend, backend
 - gatsby -> jamstack, react, graphql, site
 - generator
-- github-actions -> ci, cd
+- git
+- github -> git
+- github-actions -> ci, cd, github
+- github-flow -> github
 - google
 - gradle
 - grid
@@ -98,6 +101,7 @@
 - react-testing-library -> jest, lib, react, test
 - ref-app: эталонное приложение
 - ref-site: эталонный сайт
+- releasing -> publishing
 - rn, react-native -> react, mobile
 - render, rendering
 - responsive -> frontend: отзывчивый дизайн
