@@ -88,6 +88,7 @@
 - presentation
 - product
 - props -> react
+- publishing
 - puppeteer -> headless, browser
 - reach-router -> react, router, lib
 - react -> frontend, framework, lib, javascript
