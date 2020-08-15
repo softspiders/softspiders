@@ -7,12 +7,11 @@
 - api
 - apollo -> graphql
 - app -> runnable
-- runnable: самостоятельно запускаемая единица (приложение, сайт, сервис)
 - auth -> security
 - backend -> server
 - bootstrap -> css
 - browser -> web
-- cd -> ci
+- cd -> ci, deploy
 - ci -> test
 - ca, clean-architecture
 - code-surfer 
@@ -27,6 +26,7 @@
 - css -> frontend
 - db, database -> backend, persistence
 - design-pattern
+- deploy
 - dip, dependency-inversion -> solid
 - e2e -> test
 - expo -> rn: framework для React Native, ориентированный на разработку на чистом JS - без нативной составляющей
@@ -37,6 +37,7 @@
 - fullstack -> frontend, backend
 - gatsby -> jamstack, react, graphql, site
 - generator
+- github-actions -> ci, cd
 - google
 - gradle
 - grid
@@ -101,6 +102,7 @@
 - responsive -> frontend: отзывчивый дизайн
 - rest -> http, api
 - router: функциональная единица (модуль, библиотека), отвечающая за навигацию
+- runnable: самостоятельно запускаемая единица (приложение, сайт, сервис)
 - security
 - seo
 - server
