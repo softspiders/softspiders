@@ -140,6 +140,7 @@
 - unit-test -> test
 - under-dev: проект не закончен, находится в работе
 - use-presenter -> react-hooks
+- versioning: version management (primarily in Lerna)
 - war
 - web -> http
 - yarn -> node
