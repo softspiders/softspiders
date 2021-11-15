@@ -28,6 +28,8 @@
 - design-pattern
 - deploy
 - dip, dependency-inversion -> solid
+- docker
+- docker-compose -> docker
 - e2e -> test
 - expo -> rn: framework для React Native, ориентированный на разработку на чистом JS - без нативной составляющей
 - express -> backend, nodejs
@@ -82,6 +84,7 @@
 - monorepo
 - multi-command -> oclif
 - next, nextjs -> framework, react, ssr, node 
+- nginx
 - node, nodejs -> js
 - nosql -> db
 - now -> hosting, zeit
@@ -91,6 +94,7 @@
 - presentation
 - product
 - props -> react
+- proxy
 - publishing
 - puppeteer -> headless, browser
 - reach-router -> react, router, lib
@@ -106,6 +110,7 @@
 - render, rendering
 - responsive -> frontend: отзывчивый дизайн
 - rest -> http, api
+- reverse-proxy -> proxy
 - router: функциональная единица (модуль, библиотека), отвечающая за навигацию
 - runnable: самостоятельно запускаемая единица (приложение, сайт, сервис)
 - security
