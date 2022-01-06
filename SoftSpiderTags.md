@@ -82,6 +82,7 @@
 - mongodb -> nosql
 - mongoose -> mongodb
 - monorepo
+- msw, mock-server-worker -> mock, js, rest
 - multi-command -> oclif
 - next, nextjs -> framework, react, ssr, node 
 - nginx
@@ -102,6 +103,7 @@
 - react-bootstrap -> bootstrap, lib, react, responsive
 - react-hooks, hooks -> react
 - react-native, rn -> mobile
+- react-query -> react, server, sm
 - rtl, react-testing-library -> jest, lib, react, test
 - ref-app: эталонное приложение
 - ref-site: эталонный сайт
