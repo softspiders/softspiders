@@ -27,6 +27,7 @@
 - db, database -> backend, persistence
 - design-pattern
 - deploy
+- dev-mode
 - dip, dependency-inversion -> solid
 - docker
 - docker-compose -> docker
@@ -51,7 +52,7 @@
 - headless
 - heroku -> hosting
 - hosting
-- http
+- http -> web
 - ie11 -> internet-explorer
 - integration-test -> test
 - internet-explorer -> browser
@@ -68,15 +69,15 @@
 - json-server -> json, persistence, rest, db, server
 - junit -> test
 - lerna -> monorepo
-- lib
+- lib, library
 - log
 - log4j -> java, test, log
 - materialui->css, responsive
 - maven
 - mdx-deck
-- micro -> backend, zeit, lib, web
+- micro -> framework, backend, zeit, lib, web
 - mobile
-- mock -> test
+- mock -> test, dev-mode
 - mock-fs -> file-system, mock, node
 - module
 - mongodb -> nosql
@@ -91,6 +92,8 @@
 - now -> hosting, zeit
 - oauth -> auth
 - oclif -> cli, generator
+- openapi, open-api -> rest, api
+- openapi-backend -> lib, openapi, mock
 - passport -> auth
 - presentation
 - product
@@ -149,7 +152,7 @@
 - use-presenter -> react-hooks
 - versioning: version management (primarily in Lerna)
 - war
-- web -> http
+- web
 - yarn -> node
 - yarn-workspaces -> monorepo, yarn
 - zeit
