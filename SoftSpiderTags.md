@@ -57,9 +57,10 @@
 - integration-test -> test
 - internet-explorer -> browser
 - ioc
+- isomorphic
 - jamstack -> cms, headless, site
 - java
-- javascript, js
+- javascript, js -> isomorphic
 - jepria -> java, framework
 - jersey -> java, rest
 - jest -> test, js, lib
@@ -83,7 +84,7 @@
 - mongodb -> nosql
 - mongoose -> mongodb
 - monorepo
-- msw, mock-server-worker -> mock, js, rest
+- msw, mock-server-worker -> mock, isomorphic, js, rest
 - multi-command -> oclif
 - next, nextjs -> framework, react, ssr, node 
 - nginx
