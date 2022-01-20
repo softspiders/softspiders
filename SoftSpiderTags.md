@@ -95,6 +95,7 @@
 - openapi, open-api -> rest, api
 - openapi-backend -> lib, openapi, mock
 - passport -> auth
+- persistence
 - presentation
 - product
 - props -> react
