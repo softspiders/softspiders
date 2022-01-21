@@ -24,7 +24,7 @@
 - cra, create-react-app -> react
 - crud, crud-app
 - css -> frontend
-- db, database -> backend, persistence
+- db, database -> persistence
 - design-pattern
 - deploy
 - dev-mode
@@ -85,6 +85,7 @@
 - mongoose -> mongodb
 - monorepo
 - msw, mock-server-worker -> mock, isomorphic, js, rest
+- msw-data -> msw, db: пакет mswjs/data
 - multi-command -> oclif
 - next, nextjs -> framework, react, ssr, node 
 - nginx
