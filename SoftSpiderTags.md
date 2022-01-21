@@ -22,7 +22,7 @@
 - context-api -> api, props, react, style
 - counter, counter-app -> starter
 - cra, create-react-app -> react
-- crud, crud-app
+- crud -> persistence
 - css -> frontend
 - db, database -> persistence
 - design-pattern
