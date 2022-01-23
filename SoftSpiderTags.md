@@ -24,6 +24,7 @@
 - cra, create-react-app -> react
 - crud -> persistence
 - css -> frontend
+- cypress -> e2e, ts
 - db, database -> persistence
 - design-pattern
 - deploy
@@ -95,6 +96,7 @@
 - now -> hosting, zeit
 - oauth -> auth
 - oclif -> cli, generator
+- offline
 - openapi, open-api -> rest, api
 - openapi-backend -> lib, openapi, mock
 - passport -> auth
@@ -122,6 +124,7 @@
 - reverse-proxy -> proxy
 - router: функциональная единица (модуль, библиотека), отвечающая за навигацию
 - runnable: самостоятельно запускаемая единица (приложение, сайт, сервис)
+- search
 - security
 - seo
 - server
