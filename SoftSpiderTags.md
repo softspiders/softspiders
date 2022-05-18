@@ -153,6 +153,7 @@
 - todo, todo-app -> crud
 - travis -> ci
 - ts, typescript -> javascript
+- turborepo -> monorepo, javascript
 - ui
 - unit-test -> test
 - under-dev: проект не закончен, находится в работе
