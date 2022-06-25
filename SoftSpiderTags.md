@@ -146,6 +146,7 @@
 - style
 - styled-components, sc
 - styled-components.theme-provider
+- tailwind -> css, framework
 - tdd -> test
 - template
 - test, testing: наличие автотестов
