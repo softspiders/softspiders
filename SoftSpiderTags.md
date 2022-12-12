@@ -101,6 +101,7 @@
 - openapi-backend -> lib, openapi, mock
 - passport -> auth
 - persistence
+- postgres, postgresql -> db
 - presentation
 - product
 - props -> react
@@ -134,6 +135,8 @@
 - site -> runnable, seo, web
 - snapshot
 - solid
+- spring -> java, framework
+- spring-boot -> spring
 - srp -> solid
 - ss-deck -> presentation
 - starter
