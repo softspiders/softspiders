@@ -63,6 +63,8 @@
 - jamstack -> cms, headless, site
 - java
 - javascript, js -> isomorphic
+- jdbc -> java, db
+- jdbc-template->jdbc, spring
 - jepria -> java, framework
 - jersey -> java, rest
 - jest -> test, js, lib
@@ -101,6 +103,7 @@
 - openapi-backend -> lib, openapi, mock
 - passport -> auth
 - persistence
+- pgadmin -> postgresql
 - postgres, postgresql -> db
 - presentation
 - product
