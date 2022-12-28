@@ -156,6 +156,7 @@
 - tdd -> test
 - template
 - test, testing: наличие автотестов
+- testcontainers -> docker, lib, test
 - test-coverage -> test
 - todo, todo-app -> crud
 - travis -> ci
