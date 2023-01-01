@@ -37,6 +37,7 @@
 - express -> backend, nodejs
 - faker -> js, generator, lib, test
 - file-system
+- flyway -> db, migration
 - framework
 - frontend
 - fullstack -> frontend, backend
@@ -53,6 +54,7 @@
 - hapi -> api, backend, node: небольшой фреймворк, использующийся для разработки web-приложений на NodeJS 
 - headless
 - heroku -> hosting
+- hexagonal, hexagonal-architecture -> ca
 - hosting
 - http -> web
 - ie11 -> internet-explorer
@@ -81,6 +83,7 @@
 - maven
 - mdx-deck
 - micro -> framework, backend, zeit, lib, web
+- migration
 - mobile
 - mock -> test, dev-mode
 - mock-fs -> file-system, mock, node
@@ -103,8 +106,8 @@
 - openapi-backend -> lib, openapi, mock
 - passport -> auth
 - persistence
-- pgadmin -> postgresql
-- postgres, postgresql -> db
+- pgadmin -> psql
+- psql, postgres, postgresql -> db
 - presentation
 - product
 - props -> react
@@ -125,11 +128,13 @@
 - render, rendering
 - responsive -> frontend: отзывчивый дизайн
 - rest -> http, api
+- rest-assured -> integration-test, rest
 - reverse-proxy -> proxy
 - router: функциональная единица (модуль, библиотека), отвечающая за навигацию
 - runnable: самостоятельно запускаемая единица (приложение, сайт, сервис)
 - search
 - security
+- selenium -> e2e
 - seo
 - server
 - service -> runnable
@@ -140,6 +145,8 @@
 - solid
 - spring -> java, framework
 - spring-boot -> spring
+- spring-data -> spring, db
+- spring-data-jpa -> spring-data, jpa
 - srp -> solid
 - ss-deck -> presentation
 - starter
@@ -158,7 +165,7 @@
 - test, testing: наличие автотестов
 - testcontainers -> docker, lib, test
 - test-coverage -> test
-- todo, todo-app -> crud
+- todo, todo-app -> app, crud
 - travis -> ci
 - ts, typescript -> javascript
 - turborepo -> monorepo, javascript
