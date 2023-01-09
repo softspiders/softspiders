@@ -107,7 +107,7 @@
 - passport -> auth
 - persistence
 - pgadmin -> psql
-- psql, postgres, postgresql -> db
+- postgres, postgresql -> db
 - presentation
 - product
 - props -> react
