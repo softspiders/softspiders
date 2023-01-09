@@ -159,6 +159,7 @@
 - style
 - styled-components, sc
 - styled-components.theme-provider
+- swagger -> rest, ui
 - tailwind -> css, framework
 - tdd -> test
 - template
