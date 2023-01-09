@@ -8,11 +8,12 @@
 - apollo -> graphql
 - app -> runnable
 - auth -> security
+- autotest -> test
 - backend -> server
 - bootstrap -> css
 - browser -> web
 - cd -> ci, deploy
-- ci -> test
+- ci -> autotest
 - ca, clean-architecture
 - code-surfer 
 - cli: command-line interface
@@ -32,10 +33,10 @@
 - dip, dependency-inversion -> solid
 - docker
 - docker-compose -> docker
-- e2e -> test
+- e2e -> autotest
 - expo -> rn: framework для React Native, ориентированный на разработку на чистом JS - без нативной составляющей
 - express -> backend, nodejs
-- faker -> js, generator, lib, test
+- faker -> js, generator, lib, autotest
 - file-system
 - flyway -> db, migration
 - framework
@@ -58,7 +59,7 @@
 - hosting
 - http -> web
 - ie11 -> internet-explorer
-- integration-test -> test
+- integration-test -> autotest
 - internet-explorer -> browser
 - ioc
 - isomorphic
@@ -69,23 +70,23 @@
 - jdbc-template->jdbc, spring
 - jepria -> java, framework
 - jersey -> java, rest
-- jest -> test, js, lib
+- jest -> autotest, js, lib
 - jest-fetch-mock -> jest, fetch, mock
 - jest-mock-extended -> jest, mock
 - jfront -> frontend
 - json-server -> json, persistence, rest, db, server
-- junit -> test
+- junit -> autotest
 - lerna -> monorepo
 - lib, library
 - log
-- log4j -> java, test, log
+- log4j -> java, log
 - materialui->css, responsive
 - maven
 - mdx-deck
 - micro -> framework, backend, zeit, lib, web
 - migration
 - mobile
-- mock -> test, dev-mode
+- mock -> autotest, dev-mode
 - mock-fs -> file-system, mock, node
 - module
 - mongodb -> nosql
@@ -120,7 +121,7 @@
 - react-hooks, hooks -> react
 - react-native, rn -> mobile
 - react-query -> react, server, sm
-- rtl, react-testing-library -> jest, lib, react, test
+- rtl, react-testing-library -> jest, lib, react, autotest
 - ref-app: эталонное приложение
 - ref-site: эталонный сайт
 - releasing -> publishing
@@ -159,19 +160,19 @@
 - style
 - styled-components, sc
 - styled-components.theme-provider
-- swagger -> rest, ui
+- swagger -> rest, test, ui
 - tailwind -> css, framework
-- tdd -> test
+- tdd -> autotest
 - template
-- test, testing: наличие автотестов
-- testcontainers -> docker, lib, test
-- test-coverage -> test
+- test, testing
+- testcontainers -> docker, lib, autotest
+- test-coverage -> autotest
 - todo, todo-app -> app, crud
 - travis -> ci
 - ts, typescript -> javascript
 - turborepo -> monorepo, javascript
 - ui
-- unit-test -> test
+- unit-test -> autotest
 - under-dev: проект не закончен, находится в работе
 - use-presenter -> react-hooks
 - versioning: version management (primarily in Lerna)
