@@ -78,6 +78,7 @@
 - junit -> autotest
 - lerna -> monorepo
 - lib, library
+- liquibase -> db, migration
 - log
 - log4j -> java, log
 - materialui->css, responsive
