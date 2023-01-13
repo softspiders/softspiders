@@ -78,9 +78,10 @@
 - junit -> autotest
 - lerna -> monorepo
 - lib, library
-- liquibase -> db, migration
+- liquibase -> db, lib, migration
 - log
-- log4j -> java, log
+- log4j -> java, lib, log
+- mapstruct -> java, lib
 - materialui->css, responsive
 - maven
 - mdx-deck
@@ -122,17 +123,17 @@
 - react-hooks, hooks -> react
 - react-native, rn -> mobile
 - react-query -> react, server, sm
-- rtl, react-testing-library -> jest, lib, react, autotest
 - ref-app: эталонное приложение
 - ref-site: эталонный сайт
 - releasing -> publishing
-- rn, react-native -> react, mobile
 - render, rendering
 - responsive -> frontend: отзывчивый дизайн
 - rest -> http, api
 - rest-assured -> integration-test, rest
 - reverse-proxy -> proxy
+- rn, react-native -> react, mobile
 - router: функциональная единица (модуль, библиотека), отвечающая за навигацию
+- rtl, react-testing-library -> jest, lib, react, autotest
 - runnable: самостоятельно запускаемая единица (приложение, сайт, сервис)
 - search
 - security
