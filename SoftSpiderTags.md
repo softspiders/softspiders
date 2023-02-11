@@ -26,6 +26,7 @@
 - crud
 - css -> frontend
 - db, database -> backend
+- dbunit -> db, junit
 - doc, document
 - e2e -> test
 - expo -> rn: framework для React Native, ориентированный на разработку на чистом JS - без нативной составляющей
