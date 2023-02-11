@@ -71,6 +71,7 @@
 - mobile
 - mock -> test
 - mock-fs -> file-system, mock, node
+- mockmvc -> spring, test, rest
 - module
 - mongodb -> nosql
 - mongoose -> mongodb
