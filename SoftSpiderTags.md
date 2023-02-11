@@ -60,7 +60,7 @@
 - jersey -> java, rest
 - jest -> test, js
 - jfront -> frontend
-- junit -> test
+- junit -> java, test
 - lerna -> monorepo
 - lib
 - log
