@@ -6,6 +6,7 @@
 - api
 - apollo -> graphql
 - app -> runnable
+- assertj -> junit
 - runnable: самостоятельно запускаемая единица (приложение, сайт, сервис)
 - auth, authentication -> security
 - backend -> server
