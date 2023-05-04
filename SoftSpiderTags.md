@@ -3,7 +3,7 @@
 При возникновении вопросов по используемой нотации для элементов словаря смотрите раздел
 [Словарь используемых тегов](README.md#словарь-используемых-тегов)
 
-- actuator -> spring
+- actuator -> monitoring, spring, spring-boot
 - adapter -> design-pattern
 - api
 - apollo -> graphql
@@ -106,6 +106,7 @@
 - module
 - mongodb -> nosql
 - mongoose -> mongodb
+- monitoring
 - monorepo
 - msw, mock-server-worker -> mock, isomorphic, js, rest
 - msw-data -> msw, db: пакет mswjs/data
