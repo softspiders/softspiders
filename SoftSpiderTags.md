@@ -1,46 +1,65 @@
-## Feature Tag Vocabulary
+## Словарь тегов *SoftSpiders*
 
 При возникновении вопросов по используемой нотации для элементов словаря смотрите раздел
 [Словарь используемых тегов](README.md#словарь-используемых-тегов)
 
 - actuator -> spring
+- adapter -> design-pattern
 - api
 - apollo -> graphql
 - app -> runnable
 - assertj -> junit
 - runnable: самостоятельно запускаемая единица (приложение, сайт, сервис)
 - auth, authentication -> security
+- auth -> security
+- autotest -> test
 - backend -> server
 - basic-auth -> auth
 - bootstrap -> css
 - browser -> frontend, web
-- cd -> ci
-- ci -> test
-- clean-architecture, ca 
+- cd -> ci, deploy
+- ci -> autotest
+- ca, clean-architecture
+- code-surfer 
 - cli: command-line interface
 - client
 - commander -> cli, lib, node: [NodeJS CLI made easy](https://github.com/tj/commander.js)
+- composition
 - context-api -> api, props, react
 - context-api-state -> context-api, state-management: управление состоянием при помощи context-api
+- counter, counter-app -> starter
 - cra, create-react-app -> react
 - component
 - counter-app
-- crud
+- crud -> persistence
 - css -> frontend
-- db, database -> backend
+- cypress -> e2e, ts
+- db, database -> persistence, backend
 - dbunit -> db, junit
+- design-pattern
+- deploy
+- dev-mode
+- dip, dependency-inversion -> solid
+- docker
 - doc, document
-- e2e -> test
+- docker-compose -> docker
+- e2e -> autotest
 - expo -> rn: framework для React Native, ориентированный на разработку на чистом JS - без нативной составляющей
 - express -> backend, nodejs
+- faker -> js, generator, lib, autotest
 - file-system
+- flyway -> db, migration
 - form
 - formik -> form, react, lib
 - framework
 - frontend
-- fullstack
+- fullstack -> frontend, backend
 - gatsby -> jamstack, react, graphql, site
 - generator
+- git
+- github -> git
+- github-actions -> ci, cd, github
+- git-flow -> git
 - google
 - gradle
 - grid
@@ -48,8 +67,9 @@
 - hapi -> api, backend, node: небольшой фреймворк, использующийся для разработки web-приложений на NodeJS 
 - headless
 - heroku -> hosting
+- hexagonal, hexagonal-architecture -> ca
 - hosting
-- http
+- http -> web
 - ie11 -> internet-explorer
 - integration-test -> test
 - internet-explorer -> browser
@@ -57,30 +77,42 @@
 - isomorphic -> browser, server: код, который может выполняться и на клиенте, и на сервере
 - jamstack -> cms, headless, site
 - java
-- js, javascript
+- javascript, js -> isomorphic
+- jdbc -> java, db
+- jdbc-template->jdbc, spring
 - jepria -> java, framework
 - jersey -> java, rest
-- jest -> test, js
+- jest -> autotest, js, lib
+- jest-fetch-mock -> jest, fetch, mock
+- jest-mock-extended -> jest, mock
 - jfront -> frontend
-- junit -> java, test
+- json-server -> json, persistence, rest, db, server
+- junit -> java, autotest
 - lerna -> monorepo
-- lib
+- lib, library
+- liquibase -> db, lib, migration
 - log
-- log4j -> java, test, log
+- log4j -> java, lib, log
+- mapstruct -> java, lib
 - materialui->css, responsive
 - maven
-- micro -> backend, zeit, lib, web
+- mdx-deck
+- micro -> framework, backend, zeit, lib, web
+- migration
 - mobile
-- mock -> test
+- mock -> autotest, dev-mode
 - mock-fs -> file-system, mock, node
 - mockmvc -> spring, test, rest
 - module
 - mongodb -> nosql
 - mongoose -> mongodb
 - monorepo
+- msw, mock-server-worker -> mock, isomorphic, js, rest
+- msw-data -> msw, db: пакет mswjs/data
 - multi-command -> oclif
 - navigation
-- next, nextjs -> framework, react, ssr, node 
+- next, nextjs -> framework, react, ssr, node
+- nginx
 - node, nodejs -> js
 - node-fetch -> fetch, isomorphic, node
 - nosql -> db
@@ -89,24 +121,41 @@
 - npm-link -> npm
 - oauth -> auth
 - oclif -> cli, generator
+- offline
+- openapi, open-api -> rest, api
+- openapi-backend -> lib, openapi, mock
 - passport -> auth
+- persistence
+- pgadmin -> psql
+- postgres, postgresql -> db
+- presentation
 - product
-- props
+- props -> react
+- proxy
+- publishing
 - puppeteer -> headless, browser
 - reach-router -> navigation, react, router, lib
-- react -> frontend, framework, lib
+- react -> frontend, framework, lib, javascript
 - react-bootstrap -> bootstrap, lib, react, responsive
-- react-hooks
+- react-hooks, hooks -> react
+- react-native, rn -> mobile
+- react-query -> react, server, sm
 - redux -> state-management
 - ref-app: эталонное приложение
 - ref-site: эталонный сайт
-- rn, react-native -> react, javascript, mobile
+- releasing -> publishing
 - render, rendering
 - responsive -> css, frontend: отзывчивый дизайн
 - rest -> http, api
+- rest-assured -> integration-test, rest
+- reverse-proxy -> proxy
+- rn, react-native -> react, javascript, mobile
 - router: функциональная единица (модуль, библиотека), отвечающая за навигацию
+- rtl, react-testing-library -> jest, lib, react, autotest
 - runnable: самостоятельно запускаемая единица (приложение, сайт, сервис)
+- search
 - security
+- selenium -> e2e
 - seo
 - server
 - service -> runnable
@@ -115,22 +164,39 @@
 - site -> runnable, seo, web
 - snapshot
 - spa -> browser, js
+- solid
+- spring -> java, framework
+- spring-boot -> spring
+- spring-data -> spring, db
+- spring-data-jpa -> spring-data, jpa
+- srp -> solid
+- ss-deck -> presentation
+- starter
 - state
-- state-management, sm -> state
+- state management, sm -> state
 - static-site -> site
 - ssr -> render, seo, server
 - storybook -> ui, test
 - storyshot -> snapshot, storybook, testing
-- styled-components, sc -> css, component, style 
-- tdd -> test
+- style
+- styled-components, sc -> css, component, style
+- styled-components.theme-provider
+- swagger -> rest, test, ui
+- tailwind -> css, framework
+- tdd -> autotest
 - template
-- test, testing: наличие автотестов
-- todo
+- test, testing
+- testcontainers -> docker, lib, autotest
+- test-coverage -> autotest
+- todo, todo-app -> app, crud
 - travis -> ci
-- ts, typescript
+- ts, typescript -> javascript
+- turborepo -> monorepo, javascript
 - ui
-- unit-test -> test
+- unit-test -> autotest
 - under-dev, under-development: проект не закончен, находится в работе
+- use-presenter -> react-hooks
+- versioning: version management (primarily in Lerna)
 - war
 - web -> http
 - yarn -> node
