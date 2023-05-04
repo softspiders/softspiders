@@ -3,7 +3,7 @@
 При возникновении вопросов по используемой нотации для элементов словаря смотрите раздел
 [Словарь используемых тегов](README.md#словарь-используемых-тегов)
 
-- actuator -> monitoring, spring, spring-boot
+- actuator -> micrometer, monitoring, spring, spring-boot
 - adapter -> design-pattern
 - api
 - apollo -> graphql
@@ -98,6 +98,7 @@
 - maven
 - mdx-deck
 - micro -> framework, backend, zeit, lib, web
+- micrometer -> monitoring, metrics
 - migration
 - mobile
 - mock -> autotest, dev-mode
@@ -132,6 +133,7 @@
 - presentation
 - product
 - props -> react
+- prometheus -> monitoring
 - proxy
 - publishing
 - puppeteer -> headless, browser
