@@ -62,6 +62,7 @@
 - git-flow -> git
 - google
 - gradle
+- grafana -> monitoring
 - grid
 - graphql
 - hapi -> api, backend, node: небольшой фреймворк, использующийся для разработки web-приложений на NodeJS 
