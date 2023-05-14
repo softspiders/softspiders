@@ -67,6 +67,7 @@
 - graphql
 - hapi -> api, backend, node: небольшой фреймворк, использующийся для разработки web-приложений на NodeJS 
 - headless
+- helloworld -> app
 - heroku -> hosting
 - hexagonal, hexagonal-architecture -> ca
 - hosting
