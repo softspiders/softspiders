@@ -165,6 +165,7 @@
 - server
 - service -> runnable
 - serverless -> frontend
+- servlet -> java, backend
 - screenshot
 - site -> runnable, seo, web
 - snapshot
@@ -202,7 +203,7 @@
 - under-dev, under-development: проект не закончен, находится в работе
 - use-presenter -> react-hooks
 - versioning: version management (primarily in Lerna)
-- war
+- war -> web, servlet
 - web -> http
 - yarn -> node
 - yarn-workspaces -> monorepo, yarn
