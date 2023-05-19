@@ -204,7 +204,7 @@
 - use-presenter -> react-hooks
 - versioning: version management (primarily in Lerna)
 - war -> web, servlet
-- web -> http
+- web
 - yarn -> node
 - yarn-workspaces -> monorepo, yarn
 - zeit
