@@ -114,6 +114,7 @@
 - msw, mock-server-worker -> mock, isomorphic, js, rest
 - msw-data -> msw, db: пакет mswjs/data
 - multi-command -> oclif
+- multifile-specification -> openapi, swagger
 - navigation
 - next, nextjs -> framework, react, ssr, node
 - nginx
