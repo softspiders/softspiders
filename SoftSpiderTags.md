@@ -55,6 +55,7 @@
 - frontend
 - fullstack -> frontend, backend
 - gatsby -> jamstack, react, graphql, site
+- gelf -> graylog
 - generator
 - git
 - github -> git
