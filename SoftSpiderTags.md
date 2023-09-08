@@ -95,6 +95,7 @@
 - liquibase -> db, lib, migration
 - log
 - log4j -> java, lib, log
+- logback -> java, lib, log
 - mapstruct -> java, lib
 - materialui->css, responsive
 - maven
