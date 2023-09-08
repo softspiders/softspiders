@@ -63,6 +63,7 @@
 - google
 - gradle
 - grafana -> monitoring
+- graylog -> log, service
 - grid
 - graphql
 - hapi -> api, backend, node: небольшой фреймворк, использующийся для разработки web-приложений на NodeJS 
