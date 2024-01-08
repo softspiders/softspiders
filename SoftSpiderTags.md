@@ -143,6 +143,7 @@
 - proxy
 - publishing
 - puppeteer -> headless, browser
+- pwa -> web, mobile, app
 - reach-router -> navigation, react, router, lib
 - react -> frontend, framework, lib, javascript
 - react-bootstrap -> bootstrap, lib, react, responsive
